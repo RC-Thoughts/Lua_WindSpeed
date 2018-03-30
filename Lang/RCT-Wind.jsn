@@ -1,0 +1,11 @@
+{
+  "default":"en",
+  "en":{
+    "appName":"RCT WindSpeed",
+    "labelSensor":"Sensor Settings",
+	"airSpeedLbl":"Airspeed Sensor",
+    "groundSpeedLbl":"Groundspeed Sensor",
+    "labelOther":"Other Settings",
+    "windSw":"Select Ann. Switch"
+  }
+}
